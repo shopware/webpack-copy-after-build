@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "@shopware/webpack-copy-after-build",
+  "name": "@shopware-ag/webpack-copy-after-build",
   "version": "1.0.0",
   "description": "Copies files after a webpack build was finished",
   "main": "index.js",
